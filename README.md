@@ -64,7 +64,7 @@ DATABASE_URL="postgresql://username:password@hostname:5432/dbname"
 - `utils/` — helpers like `db.js`, `schema.js`, and AI modal helpers
 - `drizzle/` — SQL migrations and snapshots
 
-  DEMO LINK
+ ## DEMO LINK
   https://intelli-mock-rbok.vercel.app/
 
 ## Below are a couple of screenshots from the app.
