@@ -1,4 +1,4 @@
-# CoachRoom (AI Interview Mocker)
+# CoachRoom (AI Interview Website)
 
 >A small, modern Next.js app for practicing mock interviews using AI and recorded answers.
 
